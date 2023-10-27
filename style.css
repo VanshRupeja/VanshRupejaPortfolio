@@ -109,9 +109,10 @@ h2:hover{
 .photo:hover{
     height:65%;
     width:40%; 
-    transition-property:all;
+/*     transition-property:all;
     transition-timing-function:ease-out;
-    transition-duration:1s;
+    transition-duration:1s; */
+    
 
 
 }
